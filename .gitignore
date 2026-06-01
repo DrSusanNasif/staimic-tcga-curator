@@ -1,0 +1,24 @@
+# Nextflow
+.nextflow*
+work/
+
+# Results
+results/
+
+# Raw data
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Mac
+.DS_Store
+
+# Tables
+*.csv
+*.tsv
+*.xlsx
