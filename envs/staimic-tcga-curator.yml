@@ -1,0 +1,15 @@
+name: staimic-tcga-curator
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - pyyaml
+  - nextflow
+  - fastqc
+  - multiqc
+  - samtools
+  - bcftools
